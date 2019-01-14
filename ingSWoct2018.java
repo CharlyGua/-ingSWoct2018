@@ -1,4 +1,4 @@
-
+﻿
 package ingswoct2018;
 
 /**
@@ -10,9 +10,11 @@ public class IngSWoct2018 {
 
     public static void main(String[] args) {
         int x=1;
-        int y=100;
+        int y=1000;
         while(x<y){ y--;
     System.out.println(y);
+//primer cambio
+//contador hasta el 1000
     
         }   
     }                        
